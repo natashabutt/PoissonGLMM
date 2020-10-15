@@ -1,0 +1,259 @@
+"","PFA16NM","ethnicity","stops","arrests"
+"1","Metropolitan Police","Asian",123935,75010
+"2","Metropolitan Police","Black",256214,158724
+"3","Metropolitan Police","Mixed",33587,35919
+"4","Metropolitan Police","None",133478,20820
+"5","Metropolitan Police","Other",14643,22689
+"6","Metropolitan Police","White",290582,267112
+"7","Cumbria","Asian",106,247
+"8","Cumbria","Black",64,229
+"9","Cumbria","Mixed",37,183
+"10","Cumbria","None",997,200
+"11","Cumbria","Other",2,197
+"12","Cumbria","White",8954,28345
+"13","Lancashire","Asian",2491,4783
+"14","Lancashire","Black",308,868
+"15","Lancashire","Mixed",339,1149
+"16","Lancashire","None",3418,2177
+"17","Lancashire","Other",49,173
+"18","Lancashire","White",18335,73585
+"19","Merseyside","Asian",887,1195
+"20","Merseyside","Black",2075,2801
+"21","Merseyside","Mixed",980,1566
+"22","Merseyside","None",12949,1590
+"23","Merseyside","Other",332,1167
+"24","Merseyside","White",60729,81064
+"25","Greater Manchester","Asian",2684,10942
+"26","Greater Manchester","Black",1964,7954
+"27","Greater Manchester","Mixed",808,4369
+"28","Greater Manchester","None",1841,4561
+"29","Greater Manchester","Other",139,1986
+"30","Greater Manchester","White",13350,93515
+"31","Cheshire","Asian",116,689
+"32","Cheshire","Black",255,971
+"33","Cheshire","Mixed",179,496
+"34","Cheshire","None",4210,481
+"35","Cheshire","Other",29,316
+"36","Cheshire","White",12036,47117
+"37","Northumbria","Asian",870,2203
+"38","Northumbria","Black",489,1536
+"39","Northumbria","Mixed",160,502
+"40","Northumbria","None",434,634
+"41","Northumbria","Other",19,207
+"42","Northumbria","White",19646,84459
+"43","Durham","Asian",105,442
+"44","Durham","Black",33,218
+"45","Durham","Mixed",84,240
+"46","Durham","None",367,277
+"47","Durham","Other",23,244
+"48","Durham","White",10767,36516
+"49","North Yorkshire","Asian",523,440
+"50","North Yorkshire","Black",231,453
+"51","North Yorkshire","Mixed",220,469
+"52","North Yorkshire","None",1419,4328
+"53","North Yorkshire","Other",20,354
+"54","North Yorkshire","White",12275,36174
+"55","West Yorkshire","Asian",10635,20096
+"56","West Yorkshire","Black",2184,6166
+"57","West Yorkshire","Mixed",1686,5342
+"58","West Yorkshire","None",10240,5613
+"59","West Yorkshire","Other",170,1419
+"60","West Yorkshire","White",37097,109403
+"61","South Yorkshire","Asian",1855,2395
+"62","South Yorkshire","Black",1274,2509
+"63","South Yorkshire","Mixed",553,810
+"64","South Yorkshire","None",7199,10213
+"65","South Yorkshire","Other",135,692
+"66","South Yorkshire","White",18196,42069
+"67","South Yorkshire",NA,230,NA
+"68","Humberside","Asian",161,609
+"69","Humberside","Black",171,758
+"70","Humberside","Mixed",88,464
+"71","Humberside","None",1850,11637
+"72","Humberside","Other",13,206
+"73","Humberside","White",5979,39510
+"74","Cleveland","Asian",374,1314
+"75","Cleveland","Black",149,787
+"76","Cleveland","Mixed",74,397
+"77","Cleveland","None",598,32
+"78","Cleveland","Other",7,345
+"79","Cleveland","White",7218,43822
+"80","West Midlands","Asian",22198,22289
+"81","West Midlands","Black",13859,18384
+"82","West Midlands","Mixed",5871,8554
+"83","West Midlands","None",6600,3116
+"84","West Midlands","White",39561,94917
+"85","Staffordshire","Asian",1627,3050
+"86","Staffordshire","Black",962,1892
+"87","Staffordshire","Mixed",583,1554
+"88","Staffordshire","None",4155,391
+"89","Staffordshire","Other",82,613
+"90","Staffordshire","White",15003,46273
+"91","West Mercia","Asian",1890,1361
+"92","West Mercia","Black",1164,1123
+"93","West Mercia","Mixed",589,761
+"94","West Mercia","None",1254,12245
+"95","West Mercia","Other",45,237
+"96","West Mercia","White",22780,32769
+"97","Warwickshire","Asian",658,818
+"98","Warwickshire","Black",707,786
+"99","Warwickshire","Mixed",322,546
+"100","Warwickshire","None",599,4720
+"101","Warwickshire","Other",22,159
+"102","Warwickshire","White",8532,14003
+"103","Derbyshire","Asian",705,2563
+"104","Derbyshire","Black",407,1657
+"105","Derbyshire","Mixed",275,1064
+"106","Derbyshire","None",1069,205
+"107","Derbyshire","Other",4,575
+"108","Derbyshire","White",7223,43318
+"109","Nottinghamshire","Asian",835,2980
+"110","Nottinghamshire","Black",1258,3729
+"111","Nottinghamshire","Mixed",648,2553
+"112","Nottinghamshire","None",2596,4517
+"113","Nottinghamshire","Other",63,620
+"114","Nottinghamshire","White",7133,45309
+"115","Lincolnshire","Asian",148,384
+"116","Lincolnshire","Black",265,651
+"117","Lincolnshire","Mixed",216,459
+"118","Lincolnshire","None",1122,1044
+"119","Lincolnshire","Other",29,374
+"120","Lincolnshire","White",13560,33261
+"121","Leicestershire","Asian",1349,5393
+"122","Leicestershire","Black",960,4065
+"123","Leicestershire","Mixed",275,1235
+"124","Leicestershire","None",1448,600
+"125","Leicestershire","Other",45,613
+"126","Leicestershire","White",6838,31487
+"127","Northamptonshire","Asian",432,1219
+"128","Northamptonshire","Black",925,3222
+"129","Northamptonshire","Mixed",341,1240
+"130","Northamptonshire","None",986,895
+"131","Northamptonshire","Other",34,397
+"132","Northamptonshire","White",5617,29669
+"133","Cambridgeshire","Asian",520,2344
+"134","Cambridgeshire","Black",496,2306
+"135","Cambridgeshire","Mixed",237,874
+"136","Cambridgeshire","None",1524,3248
+"137","Cambridgeshire","Other",67,994
+"138","Cambridgeshire","White",5219,29363
+"139","Norfolk","Asian",264,282
+"140","Norfolk","Black",712,844
+"141","Norfolk","Mixed",363,419
+"142","Norfolk","None",1039,22350
+"143","Norfolk","Other",37,215
+"144","Norfolk","White",13457,22026
+"145","Suffolk","Asian",238,300
+"146","Suffolk","Black",689,896
+"147","Suffolk","Mixed",453,483
+"148","Suffolk","None",861,13219
+"149","Suffolk","Other",110,212
+"150","Suffolk","White",7830,15839
+"151","Bedfordshire","Asian",1616,4294
+"152","Bedfordshire","Black",986,3630
+"153","Bedfordshire","Mixed",515,1559
+"154","Bedfordshire","None",2151,2468
+"155","Bedfordshire","Other",48,420
+"156","Bedfordshire","White",5129,19625
+"157","Hertfordshire","Asian",2474,2565
+"158","Hertfordshire","Black",3314,4018
+"159","Hertfordshire","Mixed",1556,2067
+"160","Hertfordshire","None",6202,7314
+"161","Hertfordshire","Other",235,704
+"162","Hertfordshire","White",22682,34999
+"163","Essex","Asian",1281,1258
+"164","Essex","Black",3408,3289
+"165","Essex","Mixed",867,1655
+"166","Essex","None",4037,34225
+"167","Essex","Other",94,540
+"168","Essex","White",25652,38978
+"169","Thames Valley","Asian",5806,13040
+"170","Thames Valley","Black",4448,12003
+"171","Thames Valley","Mixed",2482,7354
+"172","Thames Valley","None",8520,9511
+"173","Thames Valley","Other",170,1424
+"174","Thames Valley","White",28003,92601
+"175","Hampshire","Asian",1593,1871
+"176","Hampshire","Black",3479,3753
+"177","Hampshire","Mixed",1280,1899
+"178","Hampshire","None",5291,3953
+"179","Hampshire","Other",104,769
+"180","Hampshire","White",36318,63644
+"181","Surrey","Asian",2235,2245
+"182","Surrey","Black",2122,2389
+"183","Surrey","Mixed",1041,1199
+"184","Surrey","None",3721,1213
+"185","Surrey","Other",114,590
+"186","Surrey","White",20955,30711
+"187","Kent","Asian",2956,2805
+"188","Kent","Black",3181,5209
+"189","Kent","Mixed",740,1901
+"190","Kent","None",5767,15433
+"191","Kent","Other",266,2009
+"192","Kent","White",23968,76297
+"193","Sussex","Asian",1629,1876
+"194","Sussex","Black",3025,4164
+"195","Sussex","Mixed",902,1973
+"196","Sussex","None",2128,9099
+"197","Sussex","Other",96,755
+"198","Sussex","White",26124,54320
+"199","City of London","Asian",1269,773
+"200","City of London","Black",1089,1013
+"201","City of London","Mixed",306,321
+"202","City of London","None",2079,634
+"203","City of London","Other",106,178
+"204","City of London","White",3486,3075
+"205","Devon and Cornwall","Asian",238,691
+"206","Devon and Cornwall","Black",410,1072
+"207","Devon and Cornwall","Mixed",174,604
+"208","Devon and Cornwall","None",2285,3779
+"209","Devon and Cornwall","Other",34,364
+"210","Devon and Cornwall","White",18091,44183
+"211","Avon and Somerset","Asian",575,1816
+"212","Avon and Somerset","Black",2288,6432
+"213","Avon and Somerset","Mixed",664,2849
+"214","Avon and Somerset","None",9592,1790
+"215","Avon and Somerset","Other",81,644
+"216","Avon and Somerset","White",16995,69823
+"217","Gloucestershire","Asian",187,548
+"218","Gloucestershire","Black",602,1311
+"219","Gloucestershire","Mixed",359,627
+"220","Gloucestershire","None",544,561
+"221","Gloucestershire","Other",20,322
+"222","Gloucestershire","White",7017,16684
+"223","Wiltshire","Asian",308,820
+"224","Wiltshire","Black",488,1529
+"225","Wiltshire","Mixed",183,912
+"226","Wiltshire","None",536,1104
+"227","Wiltshire","Other",3,204
+"228","Wiltshire","White",6074,28149
+"229","Dorset","Asian",286,518
+"230","Dorset","Black",1150,1514
+"231","Dorset","Mixed",348,572
+"232","Dorset","None",2643,1282
+"233","Dorset","Other",23,253
+"234","Dorset","White",11536,27921
+"235","North Wales","Asian",113,312
+"236","North Wales","Black",69,482
+"237","North Wales","Mixed",90,281
+"238","North Wales","None",695,1703
+"239","North Wales","Other",16,330
+"240","North Wales","White",11827,47993
+"241","Gwent","Asian",418,711
+"242","Gwent","Black",233,572
+"243","Gwent","Mixed",234,350
+"244","Gwent","None",1713,599
+"245","Gwent","Other",27,400
+"246","Gwent","White",6379,23542
+"247","South Wales","Asian",1677,2018
+"248","South Wales","Black",1832,2716
+"249","South Wales","Mixed",863,1462
+"250","South Wales","None",5521,3956
+"251","South Wales","Other",146,818
+"252","South Wales","White",31912,83359
+"253","Dyfed-Powys","Asian",153,194
+"254","Dyfed-Powys","Black",96,223
+"255","Dyfed-Powys","Mixed",118,137
+"256","Dyfed-Powys","None",1437,160
+"257","Dyfed-Powys","Other",1,48
+"258","Dyfed-Powys","White",13183,18702
