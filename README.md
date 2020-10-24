@@ -4,7 +4,6 @@
 ### Files
 
 - BUGS Models/Model 4.1/model_4.1.odc . *Poisson GLMM model*.
-- Police Data/force_data.csv . *Arrest counts and stop counts by police force*.
 - R Scripts/run_model_4.1.R . *Script for formatting data and intialisations for BUGS, running BUGS model 4.1 and saving results*.
 
 ### Data Sources
